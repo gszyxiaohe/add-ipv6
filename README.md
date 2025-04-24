@@ -30,7 +30,8 @@
 ✅ **权限**: 需要 **root 用户** 或 `sudo` 执行  
 
 ## 🖥 使用方法
-## 📥 下载脚本 bash <(curl -l -s https://raw.githubusercontent.com/byJoey/addipv6/refs/heads/main/addipv6.sh)
+## 📥 下载脚本 https://raw.githubusercontent.com/gszyxiaohe/add-ipv6/main/addipv6.sh
+
 
 启动脚本后，会提供菜单选项供用户选择：
 
