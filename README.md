@@ -55,4 +55,6 @@ bash <(curl -l -s https://raw.githubusercontent.com/byJoey/addipv6/refs/heads/ma
 
 希望此工具能帮助你高效管理 VPS 上的 IPv6 地址。
 
-本项目由VTEXS的「项目开源免费VPS计划」提供算力支持。 感谢VTEXS对开源社区的支持！
+本项目由[VTEXS](https://www.vtexs.com)的「项目开源免费VPS计划」提供算力支持。  
+感谢 [VTEXS](https://www.vtexs.com) 对开源社区的支持！  
+
