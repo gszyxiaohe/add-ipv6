@@ -58,5 +58,3 @@
 bash <(curl -l -s https://raw.githubusercontent.com/byJoey/addipv6/refs/heads/main/addipv6.sh)
 
 
-
-
