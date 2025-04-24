@@ -53,7 +53,13 @@
 
 ---
 
-📌 使用指南
+# 🚀 安装与使用  
+
+## 📥 下载脚本  
+```sh
+bash <(curl -l -s https://raw.githubusercontent.com/byJoey/addipv6/refs/heads/main/addipv6.sh)
+---
+## 📌 使用指南
 📌 按提示操作
 根据 屏幕菜单，选择网卡、生成 IPv6 地址、更新配置或删除地址。
 
