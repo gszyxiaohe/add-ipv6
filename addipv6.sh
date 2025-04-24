@@ -2,9 +2,7 @@
 
 echo "====================================="
 echo "欢迎使用 ADD IPv6 管理工具"
-echo "作者: Joey"
-echo "博客: joeyblog.net"
-echo "TG群: https://t.me/+ft-zI76oovgwNmRh"
+echo "作者: miwang"
 echo "提醒: 合理使用"
 echo "====================================="
 
